@@ -1,0 +1,85 @@
+.container {
+    width: 700px;
+    height: 700px;
+    right: 200px;
+    background: whitesmoke;
+    padding: 40px;
+    margin:auto;
+    margin-top: 0px;
+    color: black;
+    border-radius: 10px;
+    text-align: auto, center;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.imagen{
+    background: red;
+    text-align: center;
+    
+}
+
+img{
+    width: 30px;
+    height: 30px;
+}
+
+.notificacion{
+    text-align: right;
+    padding-left: 100%;
+   
+}
+
+.circulo{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+h2{
+    text-align: center;
+    height: 20px;
+    width: auto;
+}
+.saldo{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.total{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    height: 150px;
+    width: 150px;
+    
+}
+
+.nombre{
+    background: red;
+    text-align: left;
+    width: 30px;
+    height: 30px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+
